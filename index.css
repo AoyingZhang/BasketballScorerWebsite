@@ -1,0 +1,51 @@
+body {
+    background-color: #102060;
+    color: azure;
+    margin: 0;
+    width: 300px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score{
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+    color: #F94F6D;
+    font-size: 50px;
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 20px;
+    width: 100px;
+    height: 58px;
+}
+.home{
+    justify-content: center;
+}
+.guest{
+    justify-content: center;
+}
+.bu{
+    background-color: black;
+    color: #9AABDB;
+    border-color: #9AABDB;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 50px;
+}
+.clear{
+    color: lightcoral;
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 95px;
+}
+.topic{
+    margin-left: 24px;
+}
